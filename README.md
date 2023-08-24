@@ -1,5 +1,5 @@
-# Recent-Articles
-Some things I've published  recently:
+# Recent Articles
+Some articles I've published  recently:
  - [Bryan Cantrill on Rust and the Future of Low-Latency Systems](https://thenewstack.io/bryan-cantrill-on-rust-and-the-future-of-low-latency-systems/)
  - [NoSQL, NoMQ: Palo Alto Networks’ New Event Streaming Paradigm](https://thenewstack.io/nosql-nomq-palo-alto-networks-new-event-streaming-paradigm/)
  - [Is a Rust Rewrite Really Worth It?](https://thenewstack.io/is-a-rust-rewrite-really-worth-it/) 
