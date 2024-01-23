@@ -1,4 +1,4 @@
-# Recent Articles
+# Articles Archive
 Some articles I've published  recently:
  - [Bryan Cantrill on Rust and the Future of Low-Latency Systems](https://thenewstack.io/bryan-cantrill-on-rust-and-the-future-of-low-latency-systems/)
  - [NoSQL, NoMQ: Palo Alto Networks’ New Event Streaming Paradigm](https://thenewstack.io/nosql-nomq-palo-alto-networks-new-event-streaming-paradigm/)
